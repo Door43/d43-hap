@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hap:home|Door43 (hap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hap|d43-hap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hap/archive/master.zip|d43-hap.zip]]
+
+**Recent Changes**
+{{changes>ns = hap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hap|Ethnologue data]]
+
